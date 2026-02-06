@@ -2,8 +2,8 @@
 Contributors: jchristopher
 Tags: menu, duplicate, copy, clone
 Requires at least: 3.4.2
-Tested up to: 6.5.0
-Stable tag: 0.2.2
+Tested up to: 6.9
+Stable tag: 0.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,7 @@ Some WordPress installs use very elaborate navigation systems powered by core Me
 
 Duplicate Menu will allow you to create a second (or third, or fourth, etc.) copy of an existing Menu to do with what you will. It generates the clone on a programmatic level and recreates all necessary relationships to ensure the structure is retained as well.
 
-Find out more information in my [explanatory article on Duplicate Menu](https://mondaybynoon.com/wordpress-plugin-duplicate-menu/)
+Find out more information in my [explanatory article on Duplicate Menu](https://jonchristopher.us/blog/wordpress-plugin-duplicate-menu/)
 
 == Installation ==
 
@@ -28,6 +28,10 @@ Find out more information in my [explanatory article on Duplicate Menu](https://
 1. Easily create a carbon copy of an existing Menu
 
 == Changelog ==
+
+= 0.2.3 =
+* Tested up to WordPress 6.9
+* Fixes 'link expired' issue. Props [sammosam](https://github.com/jchristopher/duplicate-menu/pull/12)
 
 = 0.2.2 =
 * Fixes Deprecation Warning
